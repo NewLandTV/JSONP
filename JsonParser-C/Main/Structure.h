@@ -1,3 +1,5 @@
+// Creation Date: 2023.02.28. Tue, 22:34:10
+// Modified Date: 2023.02.28. Tue, 22:36:50
 #ifndef __STRUCTURE_H__
 #define __STRUCTURE_H__
 
